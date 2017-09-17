@@ -1,6 +1,6 @@
 # Botisimo
 
-## Twitch &amp; Discord Chat Bot for Streamers
+## Chat Bot & Stream Tools for Twitch , Mixer, & Discord
 
 Get started at [botisimo.com](https://botisimo.com)
 
